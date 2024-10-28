@@ -1,0 +1,145 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\f.ribeiro\\source\\repos\\Tecan-SolutionFR\\Tecan-SolutionFR-UnitTests\\Tecan-SolutionFR-UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\f.ribeiro\\source\\repos\\Tecan-SolutionFR\\Tecan-SolutionFR-UnitTests\\Tecan-SolutionFR-UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\f.ribeiro\\source\\repos\\Tecan-SolutionFR\\Tecan-SolutionFR-UnitTests\\Tecan-SolutionFR-UnitTests.csproj",
+        "projectName": "Tecan-SolutionFR-UnitTests",
+        "projectPath": "C:\\Users\\f.ribeiro\\source\\repos\\Tecan-SolutionFR\\Tecan-SolutionFR-UnitTests\\Tecan-SolutionFR-UnitTests.csproj",
+        "packagesPath": "C:\\Users\\f.ribeiro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\f.ribeiro\\source\\repos\\Tecan-SolutionFR\\Tecan-SolutionFR-UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\f.ribeiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\f.ribeiro\\source\\repos\\Tecan-SolutionFR\\Tecan-SolutionFR\\Tecan-SolutionFR.csproj": {
+                "projectPath": "C:\\Users\\f.ribeiro\\source\\repos\\Tecan-SolutionFR\\Tecan-SolutionFR\\Tecan-SolutionFR.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\f.ribeiro\\source\\repos\\Tecan-SolutionFR\\Tecan-SolutionFR\\Tecan-SolutionFR.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\f.ribeiro\\source\\repos\\Tecan-SolutionFR\\Tecan-SolutionFR\\Tecan-SolutionFR.csproj",
+        "projectName": "Tecan-SolutionFR",
+        "projectPath": "C:\\Users\\f.ribeiro\\source\\repos\\Tecan-SolutionFR\\Tecan-SolutionFR\\Tecan-SolutionFR.csproj",
+        "packagesPath": "C:\\Users\\f.ribeiro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\f.ribeiro\\source\\repos\\Tecan-SolutionFR\\Tecan-SolutionFR\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\f.ribeiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
